@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+*.h5
+tensorflow-2.0/.ipynb_checkpoints/
+tensorflow-2.0/__pycache__/
